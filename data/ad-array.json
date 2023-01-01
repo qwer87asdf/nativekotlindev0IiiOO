@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/10/23/শিকড়ের-সন্ধানে-ইসলামী-বই/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 105,
       "message": "জেনে নিন বনি ইসরাইল, ইহুদী, খৃষ্টান ও মুসলিম জাতির আদি ইতিহাস",
       "title": "শিকড়ের সন্ধানে [বই রিভিউ]"
@@ -44,7 +44,7 @@
     {
       "button_text": "Pay Now",
       "action_url": "https://shop.bkash.com/muslims-day01724014785/paymentlink/default-payment",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "অ্যাপ ছাড়াই bKash-এ সরাসরি পেমেন্ট করতে \"Pay Now\" বাটনে ক্লিক করুন।",
       "title": "চলতি মাসে আর্থিক অনুদান দিয়েছেন কি?"
