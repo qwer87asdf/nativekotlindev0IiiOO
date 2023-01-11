@@ -1,0 +1,2 @@
+day,month,sahri_end,fajr_end,zuhor_start,asor_start,iftar,isha_start.
+31,11,4:34,5:02,12:05,3:48,5:19,7:59.
